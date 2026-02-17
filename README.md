@@ -11,9 +11,9 @@
 
 - 📫 How to reach me **apdonagip715@gmail.com**
 
-- ##[view my CV](https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Mohamed_CV.pdf)
+- ##[view my CV](https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Muhammad_CV.pdf)
 
-- 📄 Know about my experiences [https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Mohamed_CV.pdf](https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Mohamed_CV.pdf)
+- 📄 Know about my experiences [https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Mohamed_CV.pdf](https://github.com/Abdulrahman715/Abdulrahman715/blob/main/Abdulrahman_Muhammad_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdulrahman Muhammad Naguib</h1>
 <h3 align="center">Flutter Developer && Freelancer</h3>
 
-- 🔭 I’m currently working on [Weather_App](https://github.com/Abdulrahman715/Weather_App.git)
+- 🔭 I’m currently working on [Notes_App](https://github.com/Abdulrahman715/Notes_App.git)
 
 - 🌱 I’m currently learning **Dart & Flutter Courses**
 

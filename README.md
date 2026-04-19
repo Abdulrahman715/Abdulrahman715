@@ -28,11 +28,6 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
       </a>
     </td>
-    <td>
-      <a href="mailto:abdulrahman.nagiub@gmail.com">
-        <img src="https://www.freepik.com/free-photos-vectors/gmail-logo-png" alt="gmail" height="30" width="40" />
-      </a>
-    </td>
   </tr>
 </table>
 
